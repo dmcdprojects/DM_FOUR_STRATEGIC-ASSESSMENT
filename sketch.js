@@ -2,7 +2,7 @@
 
 let numCircles = 6;
 let circles = [];
-let duration = 4; // segundos
+let duration = 9; // segundos
 let maxOffset = 45; // menor para caber no canvas 200x200
 
 function setup() {
